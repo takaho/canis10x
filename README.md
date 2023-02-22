@@ -1,2 +1,3 @@
 # canis10x
-Canis familiaris scRNA-seq project
+## Scripts used in Canis Familiaris scRNA-seq project
+
